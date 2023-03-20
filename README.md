@@ -22,3 +22,9 @@ TypingTitle.init(
 # Contributing
 
 If you find a bug or have a feature request, please submit an issue on the [**GitHub repository.**](https://github.com/RuskyDev/typingtitle/issues). Contributions are also welcome; feel free to fork the repository and submit a pull request.
+
+# Release Notes
+**v1.0.1**
+- Added 5 custom animations
+- Improved animation smoothness
+- Fixed bugs
