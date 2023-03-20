@@ -8,7 +8,7 @@ To use TypingTitle, simply include the **typingtitle.js** file in your HTML page
 ```javascript
 TypingTitle.init(
   document.getElementById("title"), // The HTML element to animate
-  "hello.... hi", // The text to display in the title
+  "Hello World", // The text to display in the title
   { // Options object (optional)
     delay: 100, // Delay between each character animation (default: 150)
     startDelay: 500, // Delay before the animation starts (default: 0)
