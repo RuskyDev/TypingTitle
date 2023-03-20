@@ -3,7 +3,7 @@
 TypingTitle is a lightweight JavaScript library for animating the text content of HTML elements. It allows you to create typing and deleting animations that simulate a human typing out and then deleting text, making it ideal for use in landing pages, banners, and other web applications where you want to draw attention to your message.
 
 # Usage
-To use TypingTitle, simply include the **typingtitle.js** file in your HTML page and then call the **animatedTitle.init()** function with the HTML element you want to animate and the text you want to display. You can also specify optional parameters to customize the animation speed and behavior. Here's an example:
+To use TypingTitle, simply include the **typingtitle.js** file in your HTML page and then call the **TypingTitle.init()** function with the HTML element you want to animate and the text you want to display. You can also specify optional parameters to customize the animation speed and behavior. Here's an example:
 
 ```javascript
 TypingTitle.init(
